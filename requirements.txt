@@ -1,0 +1,6 @@
+streamlit
+pymupdf
+pydantic
+openai
+python-docx
+python-dotenv

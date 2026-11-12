@@ -1,0 +1,39 @@
+
+# ==============================
+# Environment Variables & Secrets
+# ==============================
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# ==============================
+# Python Virtual Environment
+# ==============================
+venv/
+.venv/
+
+# ==============================
+# Python Cache Files
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==============================
+# Local Data & Generated Files
+# ==============================
+data/pdfs/
+review_draft.txt
+
+# ==============================
+# IDE & Editor Files
+# ==============================
+.vscode/
+.idea/
+
+# ==============================
+# Operating System Files
+# ==============================
+.DS_Store
+Thumbs.db
